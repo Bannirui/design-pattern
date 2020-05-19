@@ -1,0 +1,6 @@
+com\example\design\pattern\example\service\singleton\InnerClassSingleton.class
+com\example\design\pattern\example\service\singleton\HungrySingleton.class
+com\example\design\pattern\example\service\singleton\InnerClassSingleton$1.class
+com\example\design\pattern\example\service\singleton\InnerClassSingleton$InnerClassHolder.class
+com\example\design\pattern\example\service\singleton\LazySingleton.class
+com\example\design\pattern\example\DesignPatternExampleApplication.class

@@ -1,0 +1,8 @@
+server:
+  port: 12001
+  servlet:
+    context-path: /design-pattern
+
+spring:
+  application:
+    name: design-pattern-example
